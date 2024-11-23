@@ -47,15 +47,9 @@ body {
     height: 100%;
     object-fit: cover;
     border-radius: 30px;
+    box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.349);
 }
 
-.name_music, .name_sub {
-    display: flex;
-    justify-content: start;
-    width: 100%;
-    margin-left: 25px;
-    padding-top: 5px;
-}
 
 .div_bar {
     display: flex;
@@ -63,7 +57,7 @@ body {
     align-items: center;
     width: 100%;
     margin-left: 40px;
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 .bar_progess {
@@ -113,7 +107,7 @@ body {
     justify-content: space-between;
     width: 100%;
     margin-left: 40px;
-    margin-top: 010px;
+    margin-top: 5px;
     
 }
 
@@ -144,14 +138,24 @@ body {
 .name_music{
     justify-content: flex-start;
     margin-left: 50px;
-
 }
-.name_music p {
-    text-align: center;
+
+
+.name_music, .name_sub {
+    display: flex;
+    justify-content: center;
+    width: 360px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+#image-text{
     font-size: 15px;
     color: white;
     font-weight: bold;
     text-shadow: 2px 2px 2px rgb(0, 0, 0, 0.2);
     font-family: Arial, Helvetica, sans-serif;
-    text-transform: uppercase;
+
+
 }
