@@ -39,7 +39,7 @@ const images = [
 const texts = [
     "Você me permite lhe dar os parabéns juntando um pouquinho de tudo? <br> Nós, Sol, Girassol, Música e claro: FOTOS!",
     "Parabéns pelo seu dia, meu Amor.",
-    "Parabéns por ser essa mulher INCRÍVEL que tu és!<br>E pra ser bonita como vc dá trabalho, viu?",
+    "Parabéns por ser essa mulher INCRÍVEL que tu és!",
     "Parabéns por ser tão linda",
     "Por ser mãe...",
     "Por ser uma mãe incrível...",
